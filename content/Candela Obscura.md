@@ -1,1 +1,0 @@
-Candela Obscura is een TTRPG die zich afspeelt rond de gelijknamige organisatie. In mijn versie van het spel speelt elke speler als een licht gefictionaliseerde versie van zichzelf in de stad waar we allemaal wonen, [[Gent]].
