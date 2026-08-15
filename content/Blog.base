@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Tabel
+    filters:
+      and:
+        - file.inFolder("Portfolio/Blog")
